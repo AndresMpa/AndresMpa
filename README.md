@@ -1,6 +1,6 @@
 Hey there, I’m @AndresMpa **I'm a web developer** who teach himself as much as possible;
-I'm a colombian **software engineering student** and I almost finish my career so I'm
-looking for an opportunity to show what I can do in a big proyect or something... But
+I'm a **software engineering student** and I almost finish my career so I'm looking for
+an opportunity to show what I can do in a big proyect or something... But
 I keep doing personal projects anyway
 
 I'm currently learning:
