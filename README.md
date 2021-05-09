@@ -5,8 +5,8 @@ I keep doing personal projects anyway
 
 I'm currently learning:
 
-  - Bash scriping
-  - Managing a community
+  - Web Scrapping
+  - Clear speaking
   - Backend in Node.js
 
 I'm interested in:
