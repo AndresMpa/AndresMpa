@@ -5,8 +5,8 @@ I keep doing personal projects anyway
 
 I'm currently learning:
 
-  - Web Scrapping
-  - Clear speaking
+  - JS advance basic
+  - Clear writting
   - Backend in Node.js
 
 I'm interested in:
@@ -14,6 +14,7 @@ I'm interested in:
   - Web dev
   - Games dev
   - Arch Linux
+  - Data science
 
 You can find me on [Linkedin](https://www.linkedin.com/in/andres-m-prieto/)
 and... Check on my GitHub profile, you might find something cool
