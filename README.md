@@ -5,7 +5,7 @@ I keep doing personal projects anyway
 
 I'm currently learning:
 
-  - JS advance basic
+  - Web accessibility for blind peolpe
   - Clear writting
   - Backend in Node.js
 
