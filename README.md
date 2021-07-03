@@ -6,9 +6,9 @@ at [Delphi Analytics](https://www.linkedin.com/company/delphi-analytics/)
 
 I'm learning:
 
-- Automatization
-- Clear writting
-- Backend in Node.js
+- Electron
+- React
+- Scraping for productions environments
 
 I'm interested in:
 
@@ -17,6 +17,8 @@ I'm interested in:
 - Arch Linux
 - Data science
 
-You can find me on [Linkedin](https://www.linkedin.com/in/andres-m-prieto/?locale=en_US),
-you can also check it in spanish [here](https://www.linkedin.com/in/andres-m-prieto/?locale=es_ES)
-(I speak both languages) and... Check on my GitHub profile, you might find something cool
+You can find me:
+
+- [Linkedin](https://www.linkedin.com/in/andres-m-prieto/?locale=en_US), also in spanish [here](https://www.linkedin.com/in/andres-m-prieto/?locale=es_ES)
+- [Medium](https://andresprieto-25116.medium.com/)
+- [Discord](TheDreamerKing#0141); here, I meet my friends
