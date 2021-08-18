@@ -6,9 +6,8 @@ at [Delphi Analytics](https://www.linkedin.com/company/delphi-analytics/)
 
 I'm learning:
 
-- Electron
 - React
-- Scraping for productions environments
+- Using C/C++ for hardware
 
 I'm interested in:
 
