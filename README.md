@@ -1,4 +1,4 @@
-![Background](.assents/background.png)
+![Background](.assents/background_qtile.png)
 
 ![Javascript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python)
