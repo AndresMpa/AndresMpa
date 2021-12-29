@@ -13,8 +13,9 @@ at [Delphi Analytics](https://www.linkedin.com/company/delphi-analytics/)
 
 I'm learning:
 
-- React
-- Using C/C++ for hardware
+- Deep undertanding JS from ES6 to ES13
+- Using Python for hardware
+- Getting in contact with python's OS libraries
 
 I'm interested in:
 
