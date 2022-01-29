@@ -1,11 +1,12 @@
 ![Background](.assents/background_qtile.png)
 
 ![Javascript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=GNU%20Bash)
+![Python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 ![Vue](https://img.shields.io/badge/-vue-darkgreen?style=for-the-badge&logo=Vue.js)
+![Server](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=iTerm2)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-darkblue?style=for-the-badge&logo=Arch%20Linux)
-![Vue](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=iTerm2)
 
 Hey there, I’m @AndresMpa **I'm a software developer** who teach himself as much as possible;
 I'm a **software engineering student** and I almost finish my career. These days I'm quite sick,
