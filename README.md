@@ -7,21 +7,21 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-darkblue?style=for-the-badge&logo=Arch%20Linux)
 ![Vue](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=iTerm2)
 
-Hey there, I’m @AndresMpa **I'm a web developer** who teach himself as much as possible;
-I'm a **software engineering student** and I almost finish my career. Currently I'm working
-at [Delphi Analytics](https://www.linkedin.com/company/delphi-analytics/)
+Hey there, I’m @AndresMpa **I'm a software developer** who teach himself as much as possible;
+I'm a **software engineering student** and I almost finish my career. These days I'm quite sick,
+so I'm working on my own projects... But I'd like to colaborate in amazing people
 
 I'm learning:
 
-- Deep undertanding JS from ES6 to ES13
-- Using Python for hardware
-- Getting in contact with python's OS libraries
+- TypeScript!!! 
+- Python for hardware
+- Systemctl daemons
 
 I'm interested in:
 
-- Web dev
-- Games dev
-- Arch Linux
+- Software architecture (Currently knowing: SPA, Monolithic, Rest)
+- Software development (Games or Web)
+- GNU/Linux, specially Arch Linux (Which is my favorite one)
 - Data science
 
 You can find me:
