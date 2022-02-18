@@ -16,7 +16,7 @@ I'm learning:
 
 - TypeScript!!! 
 - Python for hardware
-- Systemctl daemons
+- Advance bash usage
 
 I'm interested in:
 
