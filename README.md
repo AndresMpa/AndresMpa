@@ -14,9 +14,9 @@ so I'm working on my own projects... But I'd like to colaborate in amazing peopl
 
 I'm learning:
 
-- TypeScript!!! 
-- Python for hardware
-- Advance bash usage
+- Vue.ts
+- Webpack
+- JS env management
 
 I'm interested in:
 
