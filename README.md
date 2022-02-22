@@ -30,3 +30,9 @@ You can find me:
 - [Linkedin](https://www.linkedin.com/in/andres-m-prieto/?locale=en_US), also in spanish [here](https://www.linkedin.com/in/andres-m-prieto/?locale=es_ES)
 - [Medium](https://andresprieto-25116.medium.com/)
 - [Discord](TheDreamerKing#0141); here, I meet my friends
+
+<div styele="display: flex;">
+  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=tokyonight">
+  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&langs_count=10">
+</div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AndresMpa">
