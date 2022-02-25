@@ -3,7 +3,7 @@
 <h2>Check my stats</h2>
 <article style="width: 100%; display: inline-flex;">
   <img style="width: 60%; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=tokyonight">
-  <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&langs_count=10">
+  <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&hide=jupyter%20%notebook&langs_count=10">
 </article>
 
 <section  style="margin: 0 auto;">
