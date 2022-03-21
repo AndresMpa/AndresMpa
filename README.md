@@ -79,10 +79,10 @@
       <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin">
     </a>
     <a href="https://andresprieto-25116.medium.com/">
-      <img src="https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium" alt="Linkedin">
+      <img src="https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium" alt="Medium">
     </a>
     <a href="TheDreamerKing#0141">
-      <img src="https://img.shields.io/badge/-discord-darkgray?style=for-the-badge&logo=discord" alt="Linkedin">
+      <img src="https://img.shields.io/badge/-discord-darkgray?style=for-the-badge&logo=discord" alt="Discord">
     </a>
   </p>
 </div>
