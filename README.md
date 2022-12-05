@@ -1,5 +1,15 @@
 <img src=".assents/background.png">
 
+<h2>Check my stats</h2>
+<div align="center">
+  <p>
+    <img style="width: 60%; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=synthwave">
+  </p>
+  <p>
+    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&hide=jupyter%20%notebook&langs_count=10&theme=synthwave">
+  </p>
+</div>
+
 <div align="center">
   <h2 style="text-align: center;">What I work with</h2>
   <p>
