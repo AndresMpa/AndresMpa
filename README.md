@@ -1,24 +1,6 @@
 <img src=".assents/background.png">
 
 <div align="center">
-  <h2>Check my stats</h2>
-  <a href="https://github.com/AndresMpa#gh-dark-mode-only">
-    <img height="180em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&hide_border=true&count_private=true&show_icons=true&theme=radical&include_all_commits=true#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/AndresMpa#gh-dark-mode-only">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&hide=jupyter%20%notebook&langs_count=6#gh-dark-mode-only" />
-  </a>
-
-  <a href="https://github.com/AndresMpa#gh-light-mode-only">
-    <img height="180em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&hide_border=false&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/AndresMpa#gh-light-mode-only">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide_border=false&theme=graywhite&hide=jupyter%20%notebook&langs_count=6#gh-light-mode-only" />
-  </a>
-</div>
-
-
-<div align="center">
   <h2 style="text-align: center;">What I work with</h2>
   <p>
     <a href="https://github.com/AndresMpa">
