@@ -1,12 +1,12 @@
 <img src=".assents/background.png">
 
-<h2>Check my stats</h2>
 <div align="center">
+  <h2>Check my stats</h2>
   <p>
-    <img style="width: 60%; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=synthwave">
+    <img style="width: 60%; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=radical">
   </p>
   <p>
-    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&hide=jupyter%20%notebook&langs_count=10&theme=synthwave">
+    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&hide=jupyter%20%notebook&langs_count=10&theme=radical">
   </p>
 </div>
 
