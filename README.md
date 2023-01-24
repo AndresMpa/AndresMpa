@@ -371,7 +371,7 @@
   <h3>Find me on</h3>
 
   <p>
-    <a href="https://www.youtube.com/c/@andresprieto1439" target="blank">
+    <a href="https://www.youtube.com/@andresprieto1439" target="blank">
       <img
         src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube"
         alt="YouTube: @andresprieto1439"
