@@ -3,10 +3,10 @@
 <div align="center">
   <h2>Check my stats</h2>
   <p>
-    <img style="width: 60%; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=radical">
+    <img style="width: 60%; padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&theme=dracula">
   </p>
   <p>
-    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&hide=jupyter%20%notebook&langs_count=10&theme=radical">
+    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMpa&layout=compact&hide=jupyter%20%notebook&langs_count=10&theme=dracula">
   </p>
 </div>
 
