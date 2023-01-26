@@ -23,12 +23,12 @@
   <h2>Check my stats</h2>
   <p style="display: flex; align-items: center;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10&count_private=true"
       alt="AndresMpa"
     />
     <img
       style="margin: 10px"
-      src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&locale=en&count_private=true"
       alt="AndresMpa"
     />
   </p>
