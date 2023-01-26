@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=AndresMpa&column=4&margin-w=20&margin-h=15"
+      src="https://github-profile-trophy.vercel.app/?username=AndresMpa&column=4&margin-w=20&margin-h=15&theme=matrix"
       alt="AndresMpa"
     />
   </a>
@@ -23,19 +23,19 @@
   <h2>Check my stats</h2>
   <p style="display: flex; align-items: center;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10&count_private=true&theme=chartreuse-dark"
       alt="AndresMpa"
     />
     <img
       style="margin: 10px"
-      src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&locale=en&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark"
       alt="AndresMpa"
     />
   </p>
   <p>
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AndresMpa&"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AndresMpa&theme=chartreuse-dark"
       alt="AndresMpa"
     />
   </p>
