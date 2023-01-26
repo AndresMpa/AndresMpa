@@ -21,11 +21,13 @@
 
 <div align="center">
   <h2>Check my stats</h2>
-  <p style="display: flex; align-items: center;">
+  <p style="margin: 10px;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresMpa&show_icons=true&locale=en&layout=compact&hide=jupyter%20%notebook&langs_count=10&count_private=true&theme=chartreuse-dark"
       alt="AndresMpa"
     />
+  </p>
+  <p>
     <img
       style="margin: 10px"
       src="https://github-readme-stats.vercel.app/api?username=AndresMpa&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark"
@@ -42,7 +44,7 @@
 </div>
 
 <div align="center">
-  <h3>Languages and tools</h3>
+  <h2>Languages and tools</h2>
   <div style="display: flex; justify-content: space-around; margin: 5px;">
     <p align="center">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -365,11 +367,8 @@
   </div>
 </div>
 
-<p align="left"></p>
-
-<div align="center">
-  <h3>Find me on</h3>
-
+<div align="center" style="margin: 10px;">
+  <h2>Find me on</h2>
   <p>
     <a href="https://www.youtube.com/@andresprieto1439" target="blank">
       <img
