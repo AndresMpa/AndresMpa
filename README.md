@@ -1,6 +1,6 @@
 <h1 align="center">Hey, AndresMpa here</h1>
 <p align="center">
-  I'm Software Engineer & JS Fullstack Developer who loves linux, free software and challenges
+  I'm Std. of MEng IA, a Software Engineer & JS Fullstack Developer who loves linux, free software and challenges
 </p>
 
 <p align="center">
