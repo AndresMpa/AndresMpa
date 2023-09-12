@@ -75,6 +75,18 @@
           height="40"
         />
       </a>
+      <a
+        href="https://neovim.io/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37"
+          alt="Vim"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
