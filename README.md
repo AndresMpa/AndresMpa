@@ -393,10 +393,16 @@
         src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
         alt="Linkedin: andres-m-prieto"
       />
+    </a>    
+    <a href="https://t.me/Andres_Mpa">
+      <img
+        src="https://img.shields.io/badge/-telegram-darkblue?style=for-the-badge&logo=telegram"
+        alt="Telegram: @Andres_Mpa"
+      />
     </a>
     <a href="https://discord.gg/TheDreamerKing#0141" target="blank">
       <img
-        src="https://img.shields.io/badge/-discord-darkgray?style=for-the-badge&logo=discord"
+        src="https://img.shields.io/badge/-discord-purple?style=for-the-badge&logo=discord"
         alt="Discord: TheDreamerKing#0141"
       />
     </a>
