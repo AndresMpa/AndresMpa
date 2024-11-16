@@ -340,13 +340,13 @@
         />
       </a>
       <a
-        href="https://flask.palletsprojects.com/"
+        href="https://fastapi.tiangolo.com/"
         target="_blank"
         rel="noreferrer"
       >
         <img
-          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-          alt="flask"
+          src="https://vectorwiki.com/images/i0tvc__fastapi.svg"
+          alt="FastAPI"
           width="40"
           height="40"
         />
