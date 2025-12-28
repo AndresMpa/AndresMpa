@@ -4,7 +4,7 @@
   I'm Std. of MEng IA & Data science, I'm going a Software Engineer & JS Fullstack Developer who loves linux, free software and challenges
 </p>
 
-<p align="center">New year in 5…</p>
+<p align="center">New year in 4…</p>
 
 <p align="center">
   <img
