@@ -13,7 +13,7 @@
 
 ---
 
-### Featured projects
+### Featured projects.
 
 **[lyra](https://github.com/AndresMpa/lyra)** — Local AI assistant. llama.cpp/GGUF inference, Electron↔Python IPC over Unix sockets, cross-distro packaging (pacman + apt). Co-built with [@xcerock](https://github.com/xcerock).
 
